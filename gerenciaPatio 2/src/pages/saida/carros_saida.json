@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "plate": "ABC1234",
+      "make": "Toyota",
+      "model": "Corolla"
+    },
+    {
+      "id": 2,
+      "plate": "DEF5678",
+      "make": "Honda",
+      "model": "Civic"
+    },
+    {
+      "id": 3,
+      "plate": "GHI9012",
+      "make": "Ford",
+      "model": "Focus"
+    }
+  ]
+  
